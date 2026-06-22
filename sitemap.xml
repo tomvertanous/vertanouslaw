@@ -44,13 +44,37 @@
   </url>
   <url>
     <loc>https://www.vertanouslaw.com/insights/</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.vertanouslaw.com/insights/22-6-million-verdict-against-city-of-los-angeles/</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.vertanouslaw.com/insights/wrongful-death-decedent-at-fault-california/</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.vertanouslaw.com/insights/elder-abuse-micra-cap-california/</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.vertanouslaw.com/insights/drunk-driving-injury-claims-california/</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.vertanouslaw.com/insights/roller-coaster-amusement-ride-injury-california/</loc>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
