@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs>
+    <linearGradient id="tvGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B75BC"/>
+      <stop offset="1" stop-color="#155F99"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="115" fill="url(#tvGrad)" stroke="#FFFFFF" stroke-width="3"/>
+  <circle cx="120" cy="120" r="105" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="0.8"/>
+  <text x="120" y="62" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="600" font-size="10" letter-spacing="3" fill="rgba(255,255,255,0.85)">TOP VERDICT</text>
+  <text x="120" y="124" text-anchor="middle" font-family="'Cormorant Garamond', serif" font-weight="500" font-size="58" fill="#FFFFFF">$22.6M</text>
+  <line x1="65" y1="142" x2="175" y2="142" stroke="rgba(255,255,255,0.5)" stroke-width="0.8"/>
+  <text x="120" y="162" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="600" font-size="10" letter-spacing="2" fill="#FFFFFF">SOTO LUNA v. CITY OF LA</text>
+  <text x="120" y="178" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="500" font-size="9" letter-spacing="2.5" fill="rgba(255,255,255,0.65)">JURY VERDICT &middot; 2024</text>
+</svg>
