@@ -2,79 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.vertanouslaw.com/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <loc>https://vertanouslaw.com/</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.vertanouslaw.com/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.vertanouslaw.com/es/"/>
-    <xhtml:link rel="alternate" hreflang="hy" href="https://www.vertanouslaw.com/hy/"/>
-    <xhtml:link rel="alternate" hreflang="fa" href="https://www.vertanouslaw.com/fa/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vertanouslaw.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertanouslaw.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertanouslaw.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="hy" href="https://vertanouslaw.com/hy/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://vertanouslaw.com/fa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vertanouslaw.com/"/>
   </url>
   <url>
-    <loc>https://www.vertanouslaw.com/es/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <loc>https://vertanouslaw.com/es/</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.vertanouslaw.com/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.vertanouslaw.com/es/"/>
-    <xhtml:link rel="alternate" hreflang="hy" href="https://www.vertanouslaw.com/hy/"/>
-    <xhtml:link rel="alternate" hreflang="fa" href="https://www.vertanouslaw.com/fa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertanouslaw.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertanouslaw.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="hy" href="https://vertanouslaw.com/hy/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://vertanouslaw.com/fa/"/>
   </url>
   <url>
-    <loc>https://www.vertanouslaw.com/hy/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <loc>https://vertanouslaw.com/hy/</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.vertanouslaw.com/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.vertanouslaw.com/es/"/>
-    <xhtml:link rel="alternate" hreflang="hy" href="https://www.vertanouslaw.com/hy/"/>
-    <xhtml:link rel="alternate" hreflang="fa" href="https://www.vertanouslaw.com/fa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertanouslaw.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertanouslaw.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="hy" href="https://vertanouslaw.com/hy/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://vertanouslaw.com/fa/"/>
   </url>
   <url>
-    <loc>https://www.vertanouslaw.com/fa/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <loc>https://vertanouslaw.com/fa/</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.vertanouslaw.com/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.vertanouslaw.com/es/"/>
-    <xhtml:link rel="alternate" hreflang="hy" href="https://www.vertanouslaw.com/hy/"/>
-    <xhtml:link rel="alternate" hreflang="fa" href="https://www.vertanouslaw.com/fa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertanouslaw.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertanouslaw.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="hy" href="https://vertanouslaw.com/hy/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://vertanouslaw.com/fa/"/>
   </url>
   <url>
-    <loc>https://www.vertanouslaw.com/insights/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://vertanouslaw.com/insights/</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.vertanouslaw.com/insights/22-6-million-verdict-against-city-of-los-angeles/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://vertanouslaw.com/insights/22-6-million-verdict-against-city-of-los-angeles/</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.vertanouslaw.com/insights/wrongful-death-decedent-at-fault-california/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://vertanouslaw.com/insights/wrongful-death-decedent-at-fault-california/</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.vertanouslaw.com/insights/elder-abuse-micra-cap-california/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://vertanouslaw.com/insights/elder-abuse-micra-cap-california/</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.vertanouslaw.com/insights/drunk-driving-injury-claims-california/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://vertanouslaw.com/insights/drunk-driving-injury-claims-california/</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.vertanouslaw.com/insights/roller-coaster-amusement-ride-injury-california/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <loc>https://vertanouslaw.com/insights/roller-coaster-amusement-ride-injury-california/</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vertanouslaw.com/insights/privette-doctrine-worksite-injury-california/</loc>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

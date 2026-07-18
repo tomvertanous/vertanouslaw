@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.vertanouslaw.com/sitemap.xml
+Sitemap: https://vertanouslaw.com/sitemap.xml
