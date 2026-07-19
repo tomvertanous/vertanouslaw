@@ -598,5 +598,5 @@ h2 em { font-style: normal; color: var(--gold); }
 .pa-cta-inline p { margin:0; font-size:18px; font-weight:700; color:#fff; }
 .pa-cta-inline .btn { flex-shrink:0; }
 @media (max-width:640px){ .pa-hero{ padding:96px 0 48px; } .pa-cta-inline{ padding:26px; } }
-.practice-more { display:inline-block; margin-top:12px; font-size:14px; font-weight:700; color:var(--gold); text-decoration:none; letter-spacing:.02em; }
+.practice-more { display:block; width:fit-content; margin-top:12px; font-size:14px; font-weight:700; color:var(--gold); text-decoration:none; letter-spacing:.02em; }
 .practice-more:hover { color:var(--ink); }
