@@ -605,3 +605,4 @@ h2 em { font-style: normal; color: var(--gold); }
 .worked-example p:last-child { margin-bottom:0; }
 .go-deeper { border:1px solid rgba(11,25,41,.12); border-radius:10px; padding:16px 22px; margin:26px 0; font-size:15.5px; }
 .go-deeper strong { color:var(--ink); }
+.rec-text { margin:26px auto 0; max-width:900px; text-align:center; font-size:14px; line-height:1.8; color:var(--text-soft); }
