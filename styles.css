@@ -600,3 +600,8 @@ h2 em { font-style: normal; color: var(--gold); }
 @media (max-width:640px){ .pa-hero{ padding:96px 0 48px; } .pa-cta-inline{ padding:26px; } }
 .practice-more { display:block; width:fit-content; margin-top:12px; font-size:14px; font-weight:700; color:var(--gold); text-decoration:none; letter-spacing:.02em; }
 .practice-more:hover { color:var(--ink); }
+.worked-example { border-left:3px solid var(--gold); background:rgba(184,146,74,.06); border-radius:0 10px 10px 0; padding:22px 26px; margin:26px 0; }
+.worked-example p { margin:0 0 12px; font-size:16px; }
+.worked-example p:last-child { margin-bottom:0; }
+.go-deeper { border:1px solid rgba(11,25,41,.12); border-radius:10px; padding:16px 22px; margin:26px 0; font-size:15.5px; }
+.go-deeper strong { color:var(--ink); }
