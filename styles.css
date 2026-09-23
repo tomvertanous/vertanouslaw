@@ -1,5 +1,5 @@
 /* ============================================================
-   THE VERTANOUS FIRM — single tight stylesheet.
+   THE VERTANOUS FIRM: single tight stylesheet.
    Parris-faithful. Dark navy + white + gold. Bold sans-serif.
    No overrides. No legacy. ~300 lines.
    ============================================================ */
@@ -121,7 +121,7 @@ a:hover { color: var(--gold); }
 @media (max-width: 640px) { .header-phone-label { display: none; } .header-phone-num { font-size: 18px; } }
 
 /* ============================================================
-   HERO — full-bleed parallax courthouse
+   HERO: full-bleed parallax courthouse
    ============================================================ */
 .hero {
   position: relative;
@@ -320,7 +320,7 @@ a:hover { color: var(--gold); }
 .stat-label { font-size: 12px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(255,255,255,0.78); }
 
 /* ============================================================
-   RECOGNITION STRIP — Parris-style dark, mixed badges
+   RECOGNITION STRIP: Parris-style dark, mixed badges
    ============================================================ */
 .recognition {
   background: var(--ink);
@@ -546,7 +546,7 @@ h2 em { font-style: normal; color: var(--gold); }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
 
 /* ============================================================
-   RTL — Farsi
+   RTL: Farsi
    ============================================================ */
 [dir="rtl"] body {
   font-family: 'Vazirmatn', 'Iran Sans', 'Tahoma', 'Inter', system-ui, sans-serif;
@@ -591,7 +591,7 @@ h2 em { font-style: normal; color: var(--gold); }
 .faq-list details { border:1px solid rgba(11,25,41,.12); border-radius:10px; padding:0; background:#fff; }
 .faq-list summary { cursor:pointer; font-weight:700; font-size:17px; color:var(--ink); padding:18px 22px; list-style:none; display:flex; justify-content:space-between; align-items:center; gap:12px; }
 .faq-list summary::after { content:"+"; font-size:22px; color:var(--gold); flex-shrink:0; }
-.faq-list details[open] summary::after { content:"–"; }
+.faq-list details[open] summary::after { content:"−"; }
 .faq-list details p { margin:0; padding:0 22px 20px; font-size:16px; line-height:1.7; color:var(--text-soft); }
 .areas-list { display:flex; flex-wrap:wrap; gap:10px; margin:28px 0 0; padding:0; list-style:none; }
 .areas-list li { border:1px solid rgba(11,25,41,.15); border-radius:999px; padding:8px 18px; font-size:15px; color:var(--ink); }
